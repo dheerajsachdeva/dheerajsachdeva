@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## Hi, I am Dheeraj Sachdeva<br>
 ![coding](https://user-images.githubusercontent.com/30289772/208741012-2b7d9c93-0a2d-4e3d-af2d-e10bf319bbfd.gif)<br>
-🌱 I’m currently learning full stack development<br>👯 I’m looking to collaborate on UI/UX design and Full Stack Development<br>🤔 I’m looking for Remote Jobs! 🤩<br>💬 Ask me about low-level, functional, and object-oriented programming<br>⚡ Passion: Continuous personal growth, Learning new technologies, Playing Tennis 🎾<br>
+🌱 I’m currently learning Full Stack Development<br>👯 I’m looking to collaborate on UI/UX design and Full Stack Development<br>🤔 I’m looking for Remote Jobs! 🤩<br>💬 Ask me about Object-oriented programming and Tennis<br>⚡ Passion: Continuous Personal Growth, Learning New Technologies, Playing Tennis 🎾<br>
 
 
 ## 🌐 Socials:
